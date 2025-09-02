@@ -39,4 +39,5 @@ This project demonstrates:
 
 ## 🎥 Demo
 [Watch Demo Video](docs/demo_video.mp4)
+[Watch Demo Video](docs/demo_video.gif)
 ```
