@@ -38,6 +38,5 @@ This project demonstrates:
 ![All Services Screen](docs/img_1.png)
 
 ## 🎥 Demo
-[Watch Demo Video](docs/demo_video.mp4)
 [Watch Demo Video](docs/demo_video.gif)
 ```
