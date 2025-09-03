@@ -39,4 +39,7 @@ This project demonstrates:
 
 ## 🎥 Demo
 [Watch Demo Video](docs/demo_video.gif)
+
+## 📦 Download APK
+[⬇️ Download APK](docs/app-release.apk)
 ```
